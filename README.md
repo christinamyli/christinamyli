@@ -1,4 +1,11 @@
-## Hi, I'm Christina 👋
+## Hi, I'm Christina Li 👋
+
+📹 I'm a video producer, editor, and motion graphics designer by training
+<br>
+💻 Currently expanding my skills to data and visual storytelling through coding, analysis, and visualizations
+<br>
+🕵🏻 I especially love stories about globalization, urbanization, culture, and community
+<br>
 
 <!--
 **christinamyli/christinamyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

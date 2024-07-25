@@ -2,7 +2,9 @@
 
 📹 I'm a video producer, editor, and motion graphics designer by training
 <br>
-💻 Currently expanding my skills to data and visual storytelling through coding, analysis, and visualizations
+<br>
+💻 Currently learning about data and visual storytelling through coding, analysis, and visualizations
+<br>
 <br>
 🕵🏻 I especially love stories about globalization, urbanization, culture, and community
 <br>

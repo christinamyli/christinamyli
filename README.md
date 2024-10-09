@@ -9,9 +9,9 @@
 🕵🏻 I especially love stories about globalization, urbanization, gender, culture, and community
 <br>
 <br>
-🧰 Tools I use: Python, Svelte, D3, Mapbox, QGIS, Illustrator, Photoshop, After Effects
+🧰 Tools I use: Python, Svelte, D3.js, Mapbox, QGIS, Illustrator, Photoshop, After Effects
 <br>
-⚙️ Tools I'd like to learn: Leaflet, React, R, p5
+⚙️ Tools I'd like to learn: spaCy, Leaflet, React, R, p5
 
 <!--
 **christinamyli/christinamyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

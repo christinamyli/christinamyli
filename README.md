@@ -11,7 +11,7 @@
 <br>
 🧰 Tools I use: Python, Svelte, D3.js, Mapbox, QGIS, Illustrator, Photoshop, After Effects
 <br>
-⚙️ Tools I'd like to learn: spaCy, Leaflet, React, R, p5.js
+⚙️ Tools I'd like to learn: R, spaCy, Leaflet, React, p5.js
 
 <!--
 **christinamyli/christinamyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
